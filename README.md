@@ -2,7 +2,7 @@
 
 
 
-- :boy: I'm Riccardo and I'm 30, from Sardinia, Italy 
+- :boy: I'm Riccardo, 30, from Sardinia, Italy 
 - 🌱 I’m currently learning to be a programmer
 - 💬 Ask me about coding, sports, music, books, movies, politics and sociology 
 - 📫 How to reach me: ricky.soro@gmail.com
