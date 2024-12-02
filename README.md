@@ -4,7 +4,7 @@
 public class AboutMe
 {
     string _name = "Riccardo";
-    int _age = 31;
+    int _age = 32;
     string[] _passionateAbout = ["Sports", "Books", "Music", "Politics", "Chess"];
 
     string GetCity()
